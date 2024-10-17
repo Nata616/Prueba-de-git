@@ -17,6 +17,7 @@ public abstract class Mercancia {
         this.codMercancia = codMercancia;
     }
 
+    //cambio rapido para el commit
     public String getCodMercancia() {
         return codMercancia;
     }
